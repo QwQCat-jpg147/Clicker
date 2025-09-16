@@ -1,9 +1,10 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.0",
   "files": [
     {
       "path": "1.exe",
       "url": "https://raw.githubusercontent.com/QwQCat-jpg147/Clicker/refs/heads/main/1.exe"
     }
   ]
+
 }
