@@ -1,2 +1,2 @@
-# Clicker
+#Color Clicker
 更新
