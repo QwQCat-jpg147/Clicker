@@ -23,6 +23,7 @@ Using the Command Prompt (CMD) to execute .exe
 #顏色檢測點擊器
 
 程式介面
+
 <img width="413" height="850" alt="image" src="https://github.com/user-attachments/assets/0f90af02-213c-4d93-80bc-428b984bcdbd" />
 
 
@@ -45,7 +46,9 @@ Using the Command Prompt (CMD) to execute .exe
 #颜色检测点击器
 
 程式介面
-<img width="413" height="850" alt="image" src="https://github.com/user-attachments/assets/0f90af02-213c-4d93-80bc-428b984bcdbd" />
+
+<img width="416" height="854" alt="image" src="https://github.com/user-attachments/assets/d3cb515f-58ff-4f5d-aa41-2f15004a386a" />
+
 
 
 支援语言：
