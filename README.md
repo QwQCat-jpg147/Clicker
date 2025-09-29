@@ -1,6 +1,4 @@
-[##顏色檢測點擊器](繁體中文) [##颜色检测点击器](简体中文) [##Color Detection Clicker](English)
-
-##Color Detection Clicker
+#Color Detection Clicker#
 Program screen 
 <img width="413" height="857" alt="image" src="https://github.com/user-attachments/assets/2a057d33-e6e2-4276-86b5-17bdb0b3c717" />
 Supported languages-
@@ -18,7 +16,7 @@ Using the Command Prompt (CMD) to execute .exe
 3. In the black (or blue) window that pops up, enter the command and press Enter.
 ```.\1.exe```
 ====================
-##顏色檢測點擊器
+#顏色檢測點擊器#
 程式介面
 <img width="413" height="850" alt="image" src="https://github.com/user-attachments/assets/0f90af02-213c-4d93-80bc-428b984bcdbd" />
 
@@ -38,7 +36,7 @@ Using the Command Prompt (CMD) to execute .exe
 3.在跳出的黑色 (或藍色) 視窗中，直接輸入指令，然後按下 Enter 鍵。
 ```.\1.exe```
 ====================
-##颜色检测点击器
+#颜色检测点击器#
 程式介面
 <img width="413" height="850" alt="image" src="https://github.com/user-attachments/assets/0f90af02-213c-4d93-80bc-428b984bcdbd" />
 
