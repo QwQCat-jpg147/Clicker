@@ -1,2 +1,1 @@
-#Color Clicker
-更新
+Color Detection Clicker
