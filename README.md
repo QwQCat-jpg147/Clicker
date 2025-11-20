@@ -11,15 +11,7 @@ Supported languages-
 ● 中文(简体)
 --------------------------
 If this does not work, run it as a system administrator.
---------------------------
-The function is not yet complete, but the update has stopped in version 1.2.1. There are some problems with program initialization and the speed is slow.
-If it still doesn't work, try this:
-Using the Command Prompt (CMD) to execute .exe
-1. In the folder where 1.exe is located, hold down the Shift key and right-click an empty space.
-2. In the pop-up menu, select "Open PowerShell window here" or "Open Command Prompt here."
-3. In the black (or blue) window that pops up, enter the command and press Enter.
-```.\1.exe```
---------------------------
+---
 
 顏色檢測點擊器
 =====================
